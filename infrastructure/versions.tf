@@ -7,7 +7,7 @@ terraform {
   }
 
   cloud {
-    organization = "devans10"
+    organization = "JrryChen"
 
     workspaces {
       tags = ["pitt-cicd-demo"]
